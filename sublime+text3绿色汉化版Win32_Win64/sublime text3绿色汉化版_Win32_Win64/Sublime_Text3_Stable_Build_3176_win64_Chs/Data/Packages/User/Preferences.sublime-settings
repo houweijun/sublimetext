@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+	"font_options":
+	[
+		"no_italic"
+	],
+	"font_size": 18.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Boxy Ocean.sublime-theme",
+	"theme_tab_selected_underlined": true,
+	"theme_tab_size_md": true,
+	"update_check": false,
+	"word_wrap": "auto"
+}

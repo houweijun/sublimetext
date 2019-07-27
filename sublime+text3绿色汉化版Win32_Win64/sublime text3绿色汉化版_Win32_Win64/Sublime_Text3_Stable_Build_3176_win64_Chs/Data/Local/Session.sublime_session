@@ -1,0 +1,705 @@
+{
+	"folder_history":
+	[
+		"/C/Users/Administrator/Desktop/cc9a231c02602e2e0e499ce246141e00",
+		"/G/wamp/www/thinkcmf",
+		"/E/程序设计/Python/testproject/CS231N_Work",
+		"/C/Users/Ronales/Desktop/题目1-免费版-20180524"
+	],
+	"last_version": 3176,
+	"last_window_id": 17,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 540.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"colorpick",
+						"Color Picker"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"i",
+						"Package Control: Install Package→安装插件"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/G/wamp/www/thinkcmf/public/themes/default/portal/public/assets/css/one.css",
+				"/G/wamp/www/thinkcmf/app/demo/controller/IndexController.php",
+				"/G/wamp/www/thinkcmf/public/themes/default/portal/one.html",
+				"/G/wamp/www/thinkcmf/vendor/thinkcmf/cmf-app/src/portal/controller/IndexController.php",
+				"/G/wamp/www/thinkcmf/vendor/thinkcmf/cmf-app/src/admin/controller/LinkController.php",
+				"/G/wamp/www/thinkcmf/public/themes/default/portal/index.html",
+				"/G/wamp/www/thinkcmf/public/themes/default/demo/one.html",
+				"/G/wamp/www/thinkcmf/public/plugins/demo/controller/IndexController.php",
+				"/G/wamp/www/thinkcmf/api/demo/controller/IndexController.php",
+				"/G/wamp/www/thinkcmf/public/themes/default/demo/index.html",
+				"/G/wamp/www/thinkcmf/app/portal/IndexController.php",
+				"/G/wamp/www/thinkcmf/app/demo/controller/PortalController.php",
+				"/G/wamp/www/thinkcmf/app/portal/controller/IndexController.php",
+				"/G/wamp/www/thinkcmf/app/demo/controller/AticleController.php",
+				"/G/wamp/bin/apache/apache2.4.39/conf/extra/httpd-vhosts.conf",
+				"/G/wamp/bin/mysql/mysql5.7.26/my.ini",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/G/wamp/www/thinkcmf/public/themes/admin_simpleboot3/admin/index/index.html",
+				"/G/wamp/www/thinkcmf/api/admin/controller/PublicController.php",
+				"/G/wamp/www/thinkcmf/public/themes/default/demo/public/assets/js/impress.js",
+				"/G/wamp/bin/apache/apache2.4.39/conf/httpd.conf",
+				"/G/wamp/bin/apache/apache2.4.17/conf/httpd.conf",
+				"/G/wamp/bin/apache/apache2.4.17/conf/extra/httpd-vhosts.conf",
+				"/G/wamp/www/index.php",
+				"/G/wamp/www/tp/application/database.php",
+				"/G/wamp/alias/phpmyadmin.conf",
+				"/G/wamp/www/git/index.php",
+				"/C/Users/Administrator/.ssh/id_rsa.pub",
+				"/G/wamp/www/Index.php",
+				"/E/程序设计/Python/testproject/sublimetest.py",
+				"/D/Program Files (x86)/Sublime_Text3_Stable_Build_3176_x64_Chs/Sublime Text/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/Program Files (x86)/Sublime_Text3_Stable_Build_3176_x64_Chs/Sublime Text/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/Program Files (x86)/Sublime_Text3_Stable_Build_3176_x64_Chs/Sublime Text/Data/Packages/Default/Preferences.sublime-settings",
+				"/D/Program Files (x86)/Sublime_Text3_Stable_Build_3176_x64_Chs/Sublime Text/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Ronales/Desktop/config.py",
+				"/D/Google_downloadFile/新建文件夹/Google_downloadFile - 快捷方式.lnk"
+			],
+			"find":
+			{
+				"height": 49.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"link",
+					"<?"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 43.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 190.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 92.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Link",
+						"vendor\\thinkcmf\\cmf-app\\src\\admin\\controller\\LinkController.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 300.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 943.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"A",
+						"AdminBaseController"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/G/wamp/www/thinkcmf/public/themes/simpleboot3/portal/index.html",
+					"settings":
+					{
+						"buffer_size": 6877,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/G/wamp/www/thinkcmf/public/themes/moban1/portal/index.html",
+					"settings":
+					{
+						"buffer_size": 17468,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Administrator/Desktop/20180825102651920/201808252226/index.html",
+					"settings":
+					{
+						"buffer_size": 38845,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/G/wamp/www/thinkcmf/app/portal/controller/IndexController.php",
+					"settings":
+					{
+						"buffer_size": 984,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"colorpick",
+						"Color Picker"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"i",
+						"Package Control: Install Package→安装插件"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/G/wamp/www/thinkcmf",
+				"/G/wamp/www/thinkcmf/app",
+				"/G/wamp/www/thinkcmf/app/mobile",
+				"/G/wamp/www/thinkcmf/app/mobile/controller",
+				"/G/wamp/www/thinkcmf/app/portal",
+				"/G/wamp/www/thinkcmf/app/portal/api",
+				"/G/wamp/www/thinkcmf/app/portal/controller",
+				"/G/wamp/www/thinkcmf/data",
+				"/G/wamp/www/thinkcmf/public",
+				"/C/Users/Administrator/Desktop/cc9a231c02602e2e0e499ce246141e00"
+			],
+			"file_history":
+			[
+				"/C/Users/Administrator/Desktop/20181009075200866/201810091951/index.html",
+				"/G/wamp/www/thinkcmf/app/portal/controller/IndexController.php",
+				"/G/wamp/www/thinkcmf/app/portal/controller/ListController.php",
+				"/G/wamp/www/thinkcmf/public/themes/simpleboot3/portal/list.html",
+				"/G/wamp/www/thinkcmf/public/themes/simpleboot3/portal/listone.json",
+				"/G/wamp/www/thinkcmf/public/themes/simpleboot3/portal/list.json",
+				"/G/wamp/www/thinkcmf/public/themes/simpleboot3/portal/search.json",
+				"/G/wamp/www/thinkcmf/public/themes/simpleboot3/public/head.html",
+				"/G/wamp/www/thinkcmf/public/themes/simpleboot3/public/nav.html",
+				"/G/wamp/www/thinkcmf/public/themes/simpleboot3/portal/search.html",
+				"/G/wamp/www/thinkcmf/public/themes/simpleboot3/portal/index.json",
+				"/G/wamp/www/thinkcmf/public/themes/simpleboot3/portal/lists.json",
+				"/G/wamp/www/thinkcmf/app/portal/controller/ListsController.php",
+				"/G/wamp/www/thinkcmf/app/mobile/controller/AdminIndexController.php",
+				"/G/wamp/www/thinkcmf/app/goods/controller/AdminGoodsController.php",
+				"/G/wamp/www/thinkcmf/public/themes/admin_simpleboot3/goods/index/add.html",
+				"/G/wamp/www/thinkcmf/public/themes/simpleboot3/manifest.json",
+				"/G/wamp/www/thinkcmf/public/themes/moban1/manifest.json",
+				"/G/wamp/www/thinkcmf/public/themes/simpleboot3/mobile/public/header.html",
+				"/G/wamp/www/thinkcmf/public/themes/simpleboot3/mobile/article/index.html",
+				"/G/wamp/www/thinkcmf/public/themes/simpleboot3/mobile/index/index.html",
+				"/G/wamp/www/thinkcmf/public/themes/simpleboot3/portal/article.html",
+				"/G/wamp/www/thinkcmf/public/themes/admin_simpleboot3/goods/index/index.html",
+				"/G/wamp/www/thinkcmf/public/themes/admin_simpleboot3/mobile/index/index.html",
+				"/G/wamp/www/thinkcmf/public/themes/admin_simpleboot3/mobile/admin_index/index.html",
+				"/G/wamp/www/thinkcmf/public/themes/admin_simpleboot3/goods/admin_goods/index.html",
+				"/G/wamp/www/thinkcmf/app/mobile/controller/ArticleController.php",
+				"/G/wamp/www/thinkcmf/app/mobile/controller/IndexController.php",
+				"/G/wamp/www/thinkcmf/public/themes/simpleboot3/mobile/index/one.html",
+				"/G/wamp/www/thinkcmf/public/themes/simpleboot3/mobile/one.html",
+				"/G/wamp/www/thinkcmf/simplewind/extend/dir/Dir.php",
+				"/G/wamp/www/thinkcmf/public/themes/default/portal/public/assets/css/one.css",
+				"/G/wamp/www/thinkcmf/app/demo/controller/IndexController.php",
+				"/G/wamp/www/thinkcmf/public/themes/default/portal/one.html",
+				"/G/wamp/www/thinkcmf/vendor/thinkcmf/cmf-app/src/portal/controller/IndexController.php",
+				"/G/wamp/www/thinkcmf/vendor/thinkcmf/cmf-app/src/admin/controller/LinkController.php",
+				"/G/wamp/www/thinkcmf/public/themes/default/portal/index.html",
+				"/G/wamp/www/thinkcmf/public/themes/default/demo/one.html",
+				"/G/wamp/www/thinkcmf/public/plugins/demo/controller/IndexController.php",
+				"/G/wamp/www/thinkcmf/api/demo/controller/IndexController.php",
+				"/G/wamp/www/thinkcmf/public/themes/default/demo/index.html",
+				"/G/wamp/www/thinkcmf/app/portal/IndexController.php",
+				"/G/wamp/www/thinkcmf/app/demo/controller/PortalController.php",
+				"/G/wamp/www/thinkcmf/app/demo/controller/AticleController.php",
+				"/G/wamp/bin/apache/apache2.4.39/conf/extra/httpd-vhosts.conf",
+				"/G/wamp/bin/mysql/mysql5.7.26/my.ini",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/G/wamp/www/thinkcmf/public/themes/admin_simpleboot3/admin/index/index.html",
+				"/G/wamp/www/thinkcmf/api/admin/controller/PublicController.php",
+				"/G/wamp/www/thinkcmf/public/themes/default/demo/public/assets/js/impress.js",
+				"/G/wamp/bin/apache/apache2.4.39/conf/httpd.conf",
+				"/G/wamp/bin/apache/apache2.4.17/conf/httpd.conf",
+				"/G/wamp/bin/apache/apache2.4.17/conf/extra/httpd-vhosts.conf",
+				"/G/wamp/www/index.php",
+				"/G/wamp/www/tp/application/database.php",
+				"/G/wamp/alias/phpmyadmin.conf",
+				"/G/wamp/www/git/index.php",
+				"/C/Users/Administrator/.ssh/id_rsa.pub",
+				"/G/wamp/www/Index.php",
+				"/E/程序设计/Python/testproject/sublimetest.py",
+				"/D/Program Files (x86)/Sublime_Text3_Stable_Build_3176_x64_Chs/Sublime Text/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/Program Files (x86)/Sublime_Text3_Stable_Build_3176_x64_Chs/Sublime Text/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/Program Files (x86)/Sublime_Text3_Stable_Build_3176_x64_Chs/Sublime Text/Data/Packages/Default/Preferences.sublime-settings",
+				"/D/Program Files (x86)/Sublime_Text3_Stable_Build_3176_x64_Chs/Sublime Text/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Ronales/Desktop/config.py",
+				"/D/Google_downloadFile/新建文件夹/Google_downloadFile - 快捷方式.lnk"
+			],
+			"find":
+			{
+				"height": 49.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"\t\tEnabling Courier Store",
+					"cr",
+					"creat"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "G:\\wamp\\www\\thinkcmf"
+				},
+				{
+					"path": "C:\\Users\\Administrator\\Desktop\\cc9a231c02602e2e0e499ce246141e00"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/G/wamp/www/thinkcmf/public/themes/simpleboot3/portal/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6877,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										316,
+										326
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/G/wamp/www/thinkcmf/public/themes/moban1/portal/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17468,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5394,
+										5394
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 3654.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/Administrator/Desktop/20180825102651920/201808252226/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 38845,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10089,
+										10147
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 8700.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/G/wamp/www/thinkcmf/app/portal/controller/IndexController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 984,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										981,
+										981
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 174.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 43.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 190.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,2,-32000,-32000,-1,-1,918,191,319,1597",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Dir.php",
+						"simplewind\\extend\\dir\\Dir.php"
+					],
+					[
+						"Link",
+						"vendor\\thinkcmf\\cmf-app\\src\\admin\\controller\\LinkController.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 295.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 17,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
